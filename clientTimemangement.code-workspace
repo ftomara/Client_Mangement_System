@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../oop1"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "__locale": "cpp",
+            "iostream": "cpp",
+            "istream": "cpp",
+            "iosfwd": "cpp",
+            "typeinfo": "cpp"
+        }
+    }
+}
